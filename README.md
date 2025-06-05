@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VilliDoug
-- I'm living abroad and looking for a career change;
-- I'm currently going through The Odin Project
+- I'm living in Japan and trying to dive deeper into programming;
+- I'm currently going through The Odin Project's Ruby on Rails course
 
 <!---
 VilliDoug/VilliDoug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
