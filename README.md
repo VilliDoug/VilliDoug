@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @VilliDoug
-- I'm living in Japan and trying to dive deeper into programming;
+- 👋 Hi, I’m @VilliDoug。
 - I'm studying with RaiseTech, currently doing the Java course.
 - RaiseTech　Javaコースの受講生です。どうぞよろしくお願い致します。
 
