@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VilliDoug。
 - I'm studying Web Development!
-- Web系開発を学習中。どうぞよろしくお願い致します。
+- Webアプリ開発を学習中です。よろしくお願い致します！
 
 <!---
 VilliDoug/VilliDoug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
